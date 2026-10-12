@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="42" fill="#090a0f"/>
+  <rect x="6" y="6" width="180" height="180" rx="36" fill="#131622" stroke="#2563eb" stroke-width="3"/>
+  <circle cx="96" cy="96" r="54" fill="#2563eb" fill-opacity="0.15"/>
+  <!-- Motherhood & Health Emblem -->
+  <path d="M96 46 C80 68 62 92 62 112 C62 131 77 146 96 146 C115 146 130 131 130 112 C130 92 112 68 96 46 Z" fill="#3b82f6"/>
+  <path d="M96 74 C86 90 76 104 76 116 C76 128 85 136 96 136 C107 136 116 128 116 116 C116 104 106 90 96 74 Z" fill="#60a5fa" fill-opacity="0.7"/>
+  <circle cx="96" cy="116" r="10" fill="#ffffff"/>
+</svg>
